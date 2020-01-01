@@ -49,6 +49,7 @@
 
 typedef struct lua_State lua_State;
 
+// typedef定义函数指针, 输入lua_State,输出int表示c函数的返回值个数
 typedef int (*lua_CFunction) (lua_State *L);
 
 
