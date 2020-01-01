@@ -1,2 +1,8 @@
 cscope*
 tags*
+.ycm_extra_conf.py
+build/
+.gitignore
+Makefile
+src/Makefile
+
